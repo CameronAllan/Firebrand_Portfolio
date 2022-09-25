@@ -1,7 +1,7 @@
 # Firebrand_Portfolio
 Portfolio code samples from cancelled project "Firebrand"
 
-
+[Firebrand Splash Screen](/FullScreenHeader.png?raw=true)
 
 Firebrand was essentially two games, a strategy map where players dispatched their agents for electoral shenanigans, then a turn-based tactics game whenever opposing agents clashed. 
 
